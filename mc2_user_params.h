@@ -85,7 +85,7 @@ extern "C" {
 #endif
 
 /* Number of pole pairs of motor. */
-#define     POLEPAIRS           10
+#define     POLEPAIRS           15
     
 /* Normalized Rs value */
 #define     NORM_RS             32043
